@@ -1,0 +1,35 @@
+dark-skies.txt
+Created Thu Sep 19 07:54:56 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Dark Skies
+
+
+"Light pollution is a continuous reality for many cities around
+the world.  The use of artificial lighting during the night has
+led to disruptions in the nocturnal environment.  These
+disruptions cause problems for plants, animals, and even humans
+by interfering with the natural night-day cycle. With rising
+awareness on the importance of a dark sky in the night,
+astronauts and national organizations have created areas away
+from interference by artificial light called dark sky parks.
+These areas exist in categories such as communities, reserves
+preserves, and sanctuaries.  Dark sky parks help astronomers
+in studying the night skies and for stargazers who wish to
+enjoy the night skies.  There are over 60 dark sky parks,
+communities, and reserves in the United States located in
+various states as designated by the International Dark-Sky
+Association."
+--Dark Sky Parks in the United States
+  There are over 60 dark sky parks, preserves, and
+  communities across the United States.
+  Nice list here...
+  www.worldatlas.com/articles/dark-sky-parks-in-the-united-states.html
+
+Links
+=====
+Dark Sky Parks in the United States
+There are over 60 dark sky parks, preserves, 
+and communities across the United States.
+https://www.worldatlas.com/articles/dark-sky-parks-in-the-united-states.html
