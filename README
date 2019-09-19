@@ -5,13 +5,16 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+.gitignore
+  Files for git to ignore
+
 docs/
   Documentation
 
-eclipse-2024
+eclipse-2024/
   2024 Eclipse
 
-eclipse-2017
+eclipse-2017/
   2017 Eclipse
 
 eclipses/
