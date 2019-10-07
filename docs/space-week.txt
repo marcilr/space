@@ -1,0 +1,30 @@
+space-week.txt
+Created Mon Oct  7 08:23:38 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+World Space Week begins - October 4
+
+
+World Space Week begins
+For the start of World Space Week, today's homepage features 
+a composite of images taken by NASA's Juno probe as it swooped 
+past Jupiter.  The largest planet in our solar system, Jupiter 
+also has the largest number of moons: 79.  Jupiter is the Roman 
+counterpart to Zeus, and the planet's major moons are named 
+after Zeus', shall we say, extra-marital partners.  So, when it 
+came time to name NASA's most ambitious Jupiter probe, they 
+decided to name it after Jupiter’s wife, Juno, so that she could 
+keep an eye on him. Every 53 days in the course of its wide and 
+complex orbit, the Juno probe makes its closest approach, snapping 
+shots like these as it speeds past the gas giant in just two hours. 
+World Space Week starts on the anniversary of the launch of the 
+very first space probe, Sputnik, which entered orbit around the 
+Earth on October 4, 1957.
+
+
+Links
+=====
+Today on Bing
+October 4, 2019
+https://www.bing.com/search?q=jupiter&filters=lite:%22.VHJpdmlhQ2Fyb3VzZWxeU1BPVExJR0hUQ0FST1VTRUxfRU4tVVNfMl5QT0xF%22+BTEPKey:%22Encyclo_HPBS_20191004_0700%22+IsConversation:%22true%22&form=BTCAR1&crslsl=0&efirst=1
